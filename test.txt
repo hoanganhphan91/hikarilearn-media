@@ -1,0 +1,2 @@
+# HikariLearn CDN
+Initial test file
